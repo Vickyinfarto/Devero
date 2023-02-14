@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="wwwwwwww.sq">
+        <methods>
+          <include name="name3"/>
+          <include name="name8"/>
+          <include name="name6"/>
+          <include name="name2" invocation-numbers="0"/>
+          <include name="name1"/>
+          <include name="name7"/>
+        </methods>
+      </class> <!-- wwwwwwww.sq -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
